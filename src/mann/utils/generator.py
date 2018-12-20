@@ -4,7 +4,7 @@ import pytest
 
 import os
 import random
-from Images import get_shuffled_images, time_offset_label, load_transform
+from mann.utils.images import get_shuffled_images, time_offset_label, load_transform
 
 class OmniglotGenerator(object):
     """Docstring for OmniglotGenerator"""
