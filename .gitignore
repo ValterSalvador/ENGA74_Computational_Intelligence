@@ -105,3 +105,4 @@ venv.bak/
 
 # Git large files
 large_files/
+.large_files/
